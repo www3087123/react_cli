@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_webpack=self.webpackChunkreact_webpack||[]).push([[443],{7260:function(e,a,u){u.r(a),u.d(a,{default:function(){return t}});var c=u(7294),r="C:\\Users\\admin\\Desktop\\react-webpack\\src\\pages\\about\\AbouPage.jsx";function t(){return c.createElement("div",{__self:this,__source:{fileName:r,lineNumber:5,columnNumber:9}},"AbouPage")}}}]);
+//# sourceMappingURL=about.chunk.js.map

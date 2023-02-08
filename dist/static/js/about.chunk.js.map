@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/about.chunk.js","mappings":"4PAEe,SAASA,IACpB,OACI,sFAAK,WAEb,C","sources":["webpack://react-webpack/./src/pages/about/AbouPage.jsx"],"sourcesContent":["import React from 'react'\r\n\r\nexport default function AbouPage() {\r\n    return (\r\n        <div>AbouPage</div>\r\n    )\r\n}\r\n"],"names":["AbouPage"],"sourceRoot":""}
